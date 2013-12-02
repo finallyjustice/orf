@@ -1,0 +1,16 @@
+Contact: Dongli Zhang (dongli.zhang0129@gmail.com)
+
+DNA Codon-Pair Bias Sequence Analysis Program
+
+Just make to compile all programs.
+There are four programs:
+
+orf: the program to recognize orf and generate information about codon and codon pairs.
+
+partition: partition one file with many genomes into files each with only one genome within it.
+
+count: count the number of genomes in the file to facilitate the download.
+
+reverse: generate reverse complementary sequence.
+
+
